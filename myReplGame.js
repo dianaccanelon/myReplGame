@@ -35,7 +35,7 @@ var colors = require("colors");
 //If Barbie said it's too soon, Ken says "Barbie, I had so much fun tonight. I hope you did too. I'll call you tomorrow to setup another date?"
 //If Barbie said no, Ken says: "I undestand you were only looking for fun Barbie, but I am looking for a relationship, it might be best for us to just be friends, I'll see you around."
 
-// I LOVE THIS STORY!!
+// I LOVE THIS STORY   !!!!
 
 //INTRODUCTION
 
